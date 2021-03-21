@@ -9,6 +9,6 @@ void main(List<String> args) {
   // }
 
   list.forEach((bilangan) {
-    print(bilangan);
+    print(Bilangan);
   });
 }
